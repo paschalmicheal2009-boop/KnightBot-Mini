@@ -55,7 +55,7 @@ const botName = config.botName || 'Bot';
 const botVersion = 'V1.0.1';
       
       // Build response message
-      let message = `╭━━『 *Bot Uptime* 』━━╮\n\n`;
+      let message = `╭━━『 *PASQUA Uptime* 』━━╮\n\n`;
     message += `🤖 *Bot Name:* ${botName}\n`;
     message += `🧬 *Bot Version:* ${botVersion}\n`;
       message += `⏱️ *Uptime:* ${uptime}\n`;
