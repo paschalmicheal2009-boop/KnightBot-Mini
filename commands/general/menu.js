@@ -39,7 +39,7 @@ module.exports = {
       // General Commands
       if (categories.general) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 🧭 GENERAL COMMAND\n`;
+        menuText += `┃ 🧭 PASQUA ALL COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.general.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -50,7 +50,7 @@ module.exports = {
       // AI Commands
       if (categories.ai) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 🤖 AI COMMAND\n`;
+        menuText += `┃ 🤖 PASQUA AI COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.ai.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -61,7 +61,7 @@ module.exports = {
       // Group Commands
       if (categories.group) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 🔵 GROUP COMMAND\n`;
+        menuText += `┃ 🔵 PASQUA GROUP COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.group.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -72,7 +72,7 @@ module.exports = {
       // Admin Commands
       if (categories.admin) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 🛡️ ADMIN COMMAND\n`;
+        menuText += `┃ 🛡️ PASQUA ADMIN COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.admin.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -83,7 +83,7 @@ module.exports = {
       // Owner Commands
       if (categories.owner) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 👑 OWNER COMMAND\n`;
+        menuText += `┃ 👑 PASQUA OWNER COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.owner.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -94,7 +94,7 @@ module.exports = {
       // Media Commands
       if (categories.media) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 🎞️ MEDIA COMMAND\n`;
+        menuText += `┃ 🎞️ PASQUA MEDIA COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.media.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -105,7 +105,7 @@ module.exports = {
       // Fun Commands
       if (categories.fun) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 🎭 FUN COMMAND\n`;
+        menuText += `┃ 🎭 PASQUA FUN COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.fun.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -116,7 +116,7 @@ module.exports = {
       // Utility Commands
       if (categories.utility) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 🔧 UTILITY COMMAND\n`;
+        menuText += `┃ 🔧 PASQUA UTILITY COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.utility.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -127,7 +127,7 @@ module.exports = {
        // Anime Commands
        if (categories.anime) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 👾 ANIME COMMAND\n`;
+        menuText += `┃ 👾 PASQUA ANIME COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.anime.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -138,7 +138,7 @@ module.exports = {
        // Textmaker Commands
        if (categories.utility) {
         menuText += `┏━━━━━━━━━━━━━━━━━\n`;
-        menuText += `┃ 🖋️ TEXTMAKER COMMAND\n`;
+        menuText += `┃ 🖋️ PASQUA TEXTMAKER COMMAND\n`;
         menuText += `┗━━━━━━━━━━━━━━━━━\n`;
         categories.textmaker.forEach(cmd => {
           menuText += `│ ➜ ${config.prefix}${cmd.name}\n`;
@@ -166,7 +166,7 @@ module.exports = {
             forwardingScore: 1,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
-              newsletterJid: config.newsletterJid || '120363161513685998@newsletter',
+              newsletterJid: config.newsletterJid || '120363406339575397@newsletter',
               newsletterName: config.botName,
               serverMessageId: -1
             }
