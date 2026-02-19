@@ -1,6 +1,6 @@
 <div align="center">
 
-## Knight Bot Mini
+## PASQUA Bot Mini
 
 [![Made with Baileys](https://img.shields.io/badge/Made%20with-Baileys-00bcd4?style=for-the-badge)](https://github.com/WhiskeySockets/Baileys)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -144,7 +144,7 @@ When the bot starts:
   <img src="https://img.shields.io/badge/Join-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram">
 </a>
 
-<a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbCsxJtAO7R9qxjN6F2v" target="_blank">
   <img src="https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel">
 </a>
 
@@ -154,7 +154,7 @@ When the bot starts:
 
 ## 🙏 Credits
 
-- **Mr Unique Hacker** – Main developer & maintainer  
+- **PASQUA DEV** – Main developer & maintainer  
 - **Baileys** – WhatsApp Web API library (`@whiskeysockets/baileys`)  
 - Other open‑source libraries listed in `package.json`
 
