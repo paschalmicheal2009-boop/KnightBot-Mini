@@ -78,7 +78,7 @@ module.exports = {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'Join group',
-              url: 'https://chat.whatsapp.com/CsGUNJAZcNWIQSKdf7GeEs?mode=gi_t'
+              url: 'https://chat.whatsapp.com/Hql73Tss1le0fIZyr6zZt6?mode=gi_t'
             })
           }
         ]
