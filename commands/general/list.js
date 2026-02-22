@@ -71,7 +71,7 @@ module.exports = {
             name: 'cta_url',
             buttonParamsJson: JSON.stringify({
               display_text: 'Visit Bot Repo',
-              url: config.social?.github || 'https://github.com/paschalmicheal2009-boop/KnightBot-Mini'
+              url: config.social?.github || 'https://github.com/paschalmicheal2009-boop/Pasquamini'
             })
           },
           {
